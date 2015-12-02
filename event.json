@@ -1,0 +1,16 @@
+{"list_event":
+	[
+		{"eventID":"1",
+		"judul":"Pengajian Akbar",
+		"tanggal":"2015-10-17",
+		"jam":"20:00",
+		"lokasi":"Masjid Kampus UTY"
+		},
+		{ "eventID":"2",
+		"judul":"Seminar",
+		"tanggal":"2015-10-17",
+		"jam":"09:00",
+		"lokasi":"Kampus 1 UTY"
+		}
+	]
+}
